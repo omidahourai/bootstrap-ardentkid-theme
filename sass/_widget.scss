@@ -1,0 +1,22 @@
+.widget h3 {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 1.2em;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;	
+}
+
+.widget ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+.widget ul li {
+	padding: 20px 0;
+	position: relative;
+}
+
+.widget a {
+	padding: 10px 15px;
+	border-bottom: 1px solid #eee;
+	cursor: pointer;
+}

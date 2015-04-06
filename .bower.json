@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-ardentkid-theme",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ArdentKid/bootstrap-ardentkid-theme",
+  "authors": [
+    "Omid Ahourai <omid@ardentkid.com>"
+  ],
+  "description": "Bootstrap 3 ArdentKid theme",
+  "main": [
+    "sass/index.scss"
+  ],
+  "keywords": [
+    "ardentkid",
+    "bootstrap",
+    "theme",
+    "design",
+    "scss"
+  ],
+  "license": "https://github.com/ArdentKid/bootstrap-ardentkid-theme/LICENSE.md",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jeet": "^6.1.2"
+  },
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "0d9a5572b49b64faedde4b51b0c2720cb7913741"
+  },
+  "_source": "git://github.com/ArdentKid/bootstrap-ardentkid-theme.git",
+  "_target": "*",
+  "_originalSource": "bootstrap-ardentkid-theme"
+}

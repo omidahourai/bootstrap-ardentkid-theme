@@ -1,0 +1,25 @@
+#nav-full {
+	margin: 0;
+}
+
+#home #nav-full {
+	@include full {
+		display:none;
+	}
+}
+
+#nav-small {
+	border: none;
+	margin:0;
+	@include small {
+		display:none;
+	}
+}
+
+#home #nav-small .navbar-brand {
+	display:none;
+}
+
+#post #nav-content {
+	display:none;
+}
